@@ -14,7 +14,10 @@
 <!DOCTYPE html>
 <html>
 <head>
+
 <meta charset="UTF-8">
+
+
 <title>Title Here</title>
   <!-- Bootstrap -->
   <link rel="stylesheet"
